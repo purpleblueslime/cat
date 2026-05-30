@@ -1,4 +1,4 @@
-<img src='/public/pikapet.png' height='90' />
+<img src='/public/hugfrog.gif' height='90' />
 
 # About
 
